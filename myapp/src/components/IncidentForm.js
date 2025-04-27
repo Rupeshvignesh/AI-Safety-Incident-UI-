@@ -45,7 +45,7 @@ function IncidentForm({ onAddIncident }) {
         <option value="Low">Low</option>
         <option value="Medium">Medium</option>
         <option value="High">High</option>
-      </select>
+      </select> 
       <button type="submit">Submit</button>
     </form>
   );
