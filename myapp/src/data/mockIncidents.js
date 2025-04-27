@@ -25,7 +25,7 @@ export const mockIncidents = [
       id: 4,
       title: "Data Leakage",
       description: "An AI model exposed private user data accidentally due to a training oversight.",
-      severity: "Low",
+      severity: "Low", 
       reported_at: "2025-04-10",
     }
   ];
